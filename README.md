@@ -1,4 +1,4 @@
 # TX401
-Auto settings TP-link tx401 win10
+Configuration automatique du TP-Link TX401 sous Windows 10
 
-Derniere maj le 19/07/2025
+Dernière mise à jour : 19 juillet 2025
